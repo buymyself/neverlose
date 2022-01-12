@@ -4,6 +4,9 @@
   plays sound on hit
 ]]
 
+--list of csgo sounds: http://paste.dy.fi/isy/plain
+--hitsounds pack by salvatore: https://github.com/tickcount/hitsounds
+
 local dir = Menu.TextBox("LUA", "Sound directory", 128, "buttons/arena_switch_press_02")
 local vol = Menu.SliderFloat("LUA", "Volume", 1, 0, 1)
 
