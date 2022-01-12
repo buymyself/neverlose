@@ -39,7 +39,7 @@ local function removeimpact()
         end
 
         if not EngineClient.IsConnected() then
-            table.remove(log, #log)
+            table.remove(t, #t)
             return
         end
 
@@ -82,5 +82,6 @@ local function render()
         Render.Line(Vector2.new(sx - l, sy), Vector2.new(sx + l, sy), Color.new(r, g, b, (t[i].a / 255)))
     end
 end
+
 
 Cheat.RegisterCallback("draw", render)
