@@ -1,7 +1,7 @@
 --[[
     author: pred#2448
 
-    gamesense like event log for neverlose
+    gamesense like event log for nl [recoded]
 ]]
 
 local ffi = require("ffi")
@@ -107,7 +107,7 @@ local function firedshot(s)
         return
     end
     --miss
-    addlog(string.format("Missed %s's %s(%s) due to %s, spread=%.2f°", name, whg, wdmg, reason, sprd))
+    addlog(string.format("Missed %s's %s(%i) due to %s [sp=%.2f°; hc=%i]", name, whg, wdmg, reason, sprd, hc))
 end
 
 Cheat.RegisterCallback("events", function(e)
@@ -173,7 +173,7 @@ local function clear()
             return
         end
         --starts fadeaway
-        t[i].alpha = t[i].alpha - math.floor(GlobalVars.frametime * 300)
+        t[i].alpha = t[i].alpha - math.floor(GlobalVars.frametime * 600)
         --if alpha less than 0, removes the index.
         if t[i].alpha < 0 then
             table.remove(t, i)
