@@ -1,4 +1,3 @@
-# neverlose
-
-I releases my open-sourced neverlose.cc LUAs here.
-I don't like to wait for script approval, so I will post here before I request on fourm.
+## LUAs for neverlose.cc
+#### My finished LUAs will be released here
+#### This repo is acrhived due to pasters selling my scripts.
