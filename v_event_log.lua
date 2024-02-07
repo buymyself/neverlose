@@ -1,5 +1,5 @@
 --[[
-    author: pred#2448
+    github: mcdonaldsfan
 
     gamesense like event log for nl [recoded]
 ]]
