@@ -1,5 +1,5 @@
 --[[
-    author: pred#2448
+    github: mcdonaldsfan
 
     simply removes the scope of ssg08
 ]]
