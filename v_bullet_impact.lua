@@ -1,5 +1,5 @@
 --[[
-    author: pred
+    github: mcdonaldsfan
 
     "+" like bullet impact for neverlose
 ]]
