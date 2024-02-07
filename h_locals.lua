@@ -1,6 +1,6 @@
 --[[
-  author: pred#2448
-  
+  github: mcdonaldsfan
+
   local variabled commonly used functions.
 ]]
 
