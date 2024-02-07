@@ -1,5 +1,5 @@
 --[[
-    author: pred#2448
+    github: mcdonaldsfan
 
     simple mindmg override indicator [feel free to use it.]
 ]]
