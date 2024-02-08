@@ -1,5 +1,5 @@
 --[[
-  github: mcdonaldsfan
+  github: 2ptr
 
   simple inverter arrows and direction arrows
 ]]
