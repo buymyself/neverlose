@@ -1,5 +1,5 @@
 --[[
-    github: mcdonaldsfan
+    github: 2ptr
 
     gamesense like event log for nl [recoded]
 ]]
