@@ -1,5 +1,5 @@
 --[[
-  github: mcdonaldsfan
+  github: 2ptr
 
   plays sound on hit
 ]]
