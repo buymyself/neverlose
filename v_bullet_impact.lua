@@ -1,5 +1,5 @@
 --[[
-    github: mcdonaldsfan
+    github: 2ptr
 
     "+" like bullet impact for neverlose
 ]]
