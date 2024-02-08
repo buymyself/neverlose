@@ -1,5 +1,5 @@
 --[[
-    github: mcdonaldsfan
+    github: 2ptr
 
     simple mindmg override indicator [feel free to use it.]
 ]]
