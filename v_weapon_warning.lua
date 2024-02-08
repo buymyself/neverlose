@@ -1,5 +1,5 @@
 --[[
-    github: mcdonaldsfan
+    github: 2ptr
 
     desc: very simple weapon warnings
 ]]
