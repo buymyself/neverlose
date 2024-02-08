@@ -1,5 +1,5 @@
 --[[
-    github: mcdonaldsfan
+    github: 2ptr
 
     found this hitlog in sigma's 5v5 video XD, a remade for nl
 ]]
