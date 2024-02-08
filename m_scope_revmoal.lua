@@ -1,5 +1,5 @@
 --[[
-    github: mcdonaldsfan
+    github: 2ptr
 
     simply removes the scope of ssg08
 ]]
