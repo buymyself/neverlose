@@ -1,5 +1,5 @@
 --[[
-  github: 2ptr
+  github: mcdonaldsfan
 
   local variabled commonly used functions.
 ]]
